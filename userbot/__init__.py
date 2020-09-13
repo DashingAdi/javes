@@ -116,6 +116,7 @@ CMD_LIST = {}
 LOAD_PLUG = {}
 ISAFK = None
 AFKREASON = None
+AFKSINCE = None
 INT_PLUG = ""
 
 
